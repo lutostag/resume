@@ -1,17 +1,24 @@
 <style type="text/css">
+@page {
+  margin: 1.5cm;
+}
+
 * {
-  font-family: "DejaVu sans-serif", sans-serif;
-  font-size: 0.95em
+  font-family: "Liberation Sans", sans-serif;
+  font-size: 95%
 }
 ul {
   margin: 0;
   list-style-type: none;
+  padding-left: 15px;
+  margin-bottom: 5px;
 }
 h1, h2 {
   margin-bottom: 0;
-  font-size: 1em
+  font-size: 110%;
 }
 h2 {
   margin-top: 0;
+  font-size: 100%;
 }
 </style>
