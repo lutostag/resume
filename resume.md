@@ -5,12 +5,6 @@
 * [github.com/lutostag](https://github.com/lutostag) [lutostag.wordpress.com](https://lutostag.wordpress.com)
 </center>
 
-# Profile
-* Skilled and motivated software developer seeking a position in development or research
-* Focused on developing straightforward, effective code to solve complex issues
-* Sees pitfalls and tradeoffs of overall system design when planning feature sets based on use cases
-* Works well independently or collaboratively to find solutions to unique problems
-
 # Education
 ## The University of Texas at Austin
 ## B.S. Computer Science, May 2013
@@ -62,4 +56,4 @@
 * Well versed with common practices: code reviews, debugging, automation, bugtracking, releasing, agile
 * Familiar with concurrent program design (threading/locking, multiprocess/IPC, async/promises)
 * Adept at managing large cluster (hundreds) of machines via automatic deployment
-* Previously used Go, Java, Perl, MATLAB, C, C++, Lua, PHP, x86 & MIPS assembly, Scheme, Haskell
+* Previously used Go, Java, Perl, MATLAB, C, C++, Lua, x86 assembly, Haskell
