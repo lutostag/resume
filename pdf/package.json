@@ -1,8 +1,11 @@
 {
   "name": "resume",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "print.js",
   "repository": "https://github.com/lutostag/resume",
   "author": "Greg Lutostanski <greg.luto@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^1.12.2"
+  }
 }
