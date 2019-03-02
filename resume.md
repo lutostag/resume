@@ -46,7 +46,7 @@
 ## Blockchain Mobility Hackathon (2nd place)
 ## Distributed Dingbums Finder, Jul 2018
 * Created and presented proof-of-concept vendor-agnostic system allowing vehicles automatically discover, communicate, and pay for charging and parking
-* `Ethereum smart contracts, IOTA, nodejs`
+* `Ethereum, Solidity, IOTA, Node.js, Angular, bash`
 
 ## Code2College
 ## Volunteer Instructor, Aug 2017 - Dec 2017
