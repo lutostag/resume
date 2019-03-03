@@ -4,11 +4,14 @@
     margin: 1.6cm;
     margin-bottom: 0cm;
   }
+  .banners {
+    display: none;
+  }
 }
 @media screen {
   body {
     width: 96vw;
-    max-width: 80ch;
+    max-width: 81ch;
     padding-top: 1cm;
     padding-bottom: 1cm;
     margin: 0 auto;
@@ -18,6 +21,7 @@ body {
   display: flex;
   flex-flow: row wrap;
   justify-content: space-between;
+  align-items: baseline;
 }
 h1, h3, code {
   color: #05497c;
@@ -31,15 +35,16 @@ code {
 ul, h1 {
   width: 100%;
 }
-h2 {
-  flex-shrink: 1;
-  align-self: center;
-  min-height: 0px;
-  min-width: 0px;
+h2, h3 {
+  min-width: max-content;
+  flex-basis: auto;
+  flex-shrink: 0;
+  flex-grow: 1;
 }
 h2 + h2 {
-  align-self: flex-end;
   justify-self: end;
+  flex-shrink: 1;
+  flex-grow: 0;
 }
 ul + h2 + h2 {
   padding-top: 3px;
