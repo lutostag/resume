@@ -3,17 +3,18 @@
 * 832.390.1881 &bull; [greg.luto@gmail.com](mailto:greg.luto@gmail.com)
 
 # Work Experience
-## The Mobility House GmbH, Munich DE + Remote
+## The Mobility House, Munich DE + Remote
 ## Team Lead, Dec 2017 - Present
 * Manage, support, and mentor multi-cultural team of 10 developers across full-stack and remote IoT devices
 * Led team from an unreleased MVP of our core product through first pilot customers and commercial releases
 * Architect, plan, and lead development of a distributed energy market that provides Vehicle-to-Grid charging
-* Grow team by recruiting, hiring, onboarding, re-organization, setting goals, and continuous feedback
+* Responsible for uptime and improvements of production system serving 25 Megawatts to European power grid
+* Grow team through recruiting, hiring, on-boarding, re-organization, setting goals, and continuous feedback
 * Promote good development practices of pair-programming, code-reviews, CI/CD, and training dojos
-* Facilitate continous improvement of the team's iterative workflow using Agile techniques and ceremonies
-* `Python, Flask, RabbitMQ, Redis, Elasticsearch, Bash, Docker, K8s, Balena.io, AWS, Git, JIRA, GitHub`
+* Facilitate continuous improvement of the team's iterative workflow using Agile techniques and ceremonies
+* `Python, Flask, RabbitMQ, Redis, Elasticsearch, Bash, Docker, k8s, Balena.io, AWS, Git, JIRA, GitHub`
 
-## Canonical Ltd., Remote
+## Canonical, Remote
 ## Software Engineer, Feb 2014 - Nov 2017
 * *Spotlight Award* - OpenStack Interoperabilty Lab Team
 * Designed and produced Django web dashboard including database models, REST API, and front-end
@@ -29,7 +30,7 @@
 * Processed highly-dimensional data using tools in team's stack (PostgreSQL, Django, AngularJS, NVD3)
 * Tuned performance for materializing monthly data: <10 mins for 15 partners, 3k testruns, 100k testcases
 
-## Calxeda, Inc., Austin TX
+## Calxeda, Austin TX
 ## Software Engineer in Test, May 2013 - Dec 2013
 * Routinely developed and maintained test framework, implemented test suites, and architected test plans
 * Chiefly responsible for stress testing and application benchmark regression for Linux portion of SoC
@@ -40,7 +41,7 @@
 ## The University of Texas at Austin
 ## B.S. Computer Science, May 2013
 * Relevant courses: Distributed Computing, Communication Networks, Operating Systems
-* Undergraduate Thesis: Designed load-balancer for TCP connections with guaranteed fault tolerance which powers-off back-end servers based on demand reducing electricity comsumption 30%
+* Undergraduate Thesis: Designed load-balancer for TCP connections with guaranteed fault tolerance which powers-off back-end servers based on demand reducing electricity consumption 30%
 
 # Projects
 ## Blockchain Mobility Hackathon (2nd place)
