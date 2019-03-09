@@ -1,11 +1,11 @@
-<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes"/>
 <style type="text/css">
 @media not screen {
   body {
     margin: 1.6cm;
     margin-bottom: 0cm;
   }
-  .banners {
+  .banners, .sidenote {
     display: none;
   }
 }
@@ -18,6 +18,22 @@
     margin: 0 auto;
   }
 }
+@media (max-width: 760px) {
+    label.margin-toggle:not(.sidenote-number) { display: inline; }
+    .sidenote, .marginnote { display: none; }
+    .margin-toggle:checked + .sidenote,
+    .margin-toggle:checked + .marginnote {
+        display: block;
+        float: left;
+        left: 1rem;
+        clear: both;
+        width: 95%;
+        margin: 1rem 2.5%;
+        vertical-align: baseline;
+        position: relative;
+    }
+}
+
 body {
   display: flex;
   flex-flow: row wrap;
@@ -96,5 +112,17 @@ ul + h2 {
 h2:first-of-type, ul:first-of-type {
   text-align: center;
   display: inherit;
+}
+.sidenote, .marginnote {
+    float: right;
+    clear: right;
+    margin-right: -60%;
+    width: 50%;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 1.1rem;
+    line-height: 1.3;
+    vertical-align: baseline;
+    position: relative;
 }
 </style>
