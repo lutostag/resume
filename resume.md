@@ -5,8 +5,8 @@
 # Work Experience
 ## The Mobility House, Munich DE + Remote
 ## Team Lead, Dec 2017 - Present
-* Manage, support, and mentor multi-cultural team of 10 developers across full-stack and remote IoT devices
-* Led team from an unreleased MVP of our core product through first pilot customers and commercial releases
+* Manage, support, and mentor international team of 10 developers across full-stack and remote IoT devices
+* Lead team from an unreleased MVP of our core product through first pilot customers and commercial releases
 * Architect, plan, and lead development of a distributed energy market that provides Vehicle-to-Grid charging
 * Responsible for uptime and improvements of production system serving 25 Megawatts to European power grid
 * Grow team through recruiting, hiring, on-boarding, re-organization, setting goals, and continuous feedback
