@@ -1,10 +1,10 @@
 {
-  "name": "resume",
+  "name": "pdfprint",
   "version": "1.0.0",
-  "main": "print.js",
+  "main": "index.js",
   "repository": "https://github.com/lutostag/resume",
   "author": "Greg Lutostanski <greg.luto@gmail.com>",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "dependencies": {
     "puppeteer": "^1.12.2"
   }
