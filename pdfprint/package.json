@@ -6,6 +6,6 @@
   "author": "Greg Lutostanski <greg.luto@gmail.com>",
   "license": "Apache-2.0",
   "dependencies": {
-    "puppeteer": "^1.12.2"
+    "puppeteer": "^5.2.1"
   }
 }

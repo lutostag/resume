@@ -1,7 +1,7 @@
 .PHONY: build deps
 
 build:
-	pandoc -H assets/style.css -B assets/banners.html -f markdown -t html resume.md > docs/index.html
+	pandoc -H docs/assets/style.css -B docs/assets/banners.html -f markdown -t html resume.md > docs/index.html
 	tidy -w 0 -qim docs/index.html
 	node pdfprint/index.js file://$(shell pwd)/docs/index.html docs/GregLutostanski.pdf
 
