@@ -16,7 +16,7 @@
  */
 
 const puppeteer = require('puppeteer');
-const path = require('path');
+// const path = require('path');
 const input = process.argv[2];
 const output = process.argv[3];
 
